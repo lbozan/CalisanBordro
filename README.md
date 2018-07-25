@@ -10,4 +10,5 @@ Bir şirket farklı tipteki çalışanlarına ait maaş bordrolarını, TC, ad, 
 3. Tip çalışanlar ise sabit maaş + (fazla mesai saati*fazla mesai saat ücreti) kullanılarak hesaplanmaktadır. 
 
 Soru 1: İlgili classları oluşturarak, bu ihtiyacı karşılayacak c# ya da Java dilleriyle uygulamayı yazınız.
+
 Soru 2: İlişkisel veri tabanı tablolarını oluşturunuz.
