@@ -16,9 +16,12 @@ Soru 2: İlişkisel veri tabanı tablolarını oluşturunuz.
 
 
 
+
 Microsoft.EntityFrameworkCore.SqlServer
+
 Microsoft.EntityFrameworkCore.Tools
 
 
 Add-Migration InitialCreate
+
 Update-Database
