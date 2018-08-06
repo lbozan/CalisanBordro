@@ -12,3 +12,13 @@ Bir şirket farklı tipteki çalışanlarına ait maaş bordrolarını, TC, ad, 
 Soru 1: İlgili classları oluşturarak, bu ihtiyacı karşılayacak c# ya da Java dilleriyle uygulamayı yazınız.
 
 Soru 2: İlişkisel veri tabanı tablolarını oluşturunuz.
+
+
+
+
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+
+Add-Migration InitialCreate
+Update-Database
