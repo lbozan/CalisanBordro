@@ -1,15 +1,11 @@
 # Calisan Bordro CASE
 .Net Core App and EF 
 
-Bir şirket farklı tipteki çalışanlarına ait maaş bordrolarını, TC, ad, soyad ve maaş bilgisiyle görüntülemek istemektedir. 
+Bir şirket farklı tipteki çalışanlarına ait maaş bordrolarını, TC, ad, soyad ve maaş bilgisiyle görüntülenecektir. 
 
-Çalışanların maaşları: 
+Çalışanların tipleri: 
 
-1. Tip çalışanlar sabit maaşlı, 
-2. Tip çalışanlar (çalışılan gün sayısı*günlük ücret), 
-3. Tip çalışanlar ise sabit maaş + (fazla mesai saati*fazla mesai saat ücreti) kullanılarak hesaplanmaktadır. 
-
-Soru 1: İlgili classları oluşturarak, bu ihtiyacı karşılayacak c# ya da Java dilleriyle uygulamayı yazınız.
-
-Soru 2: İlişkisel veri tabanı tablolarını oluşturunuz.
+1. sabit maaşlı olanlar, 
+2. (çalışılan gün sayısı*günlük ücret) olanlar, 
+3.   sabit maaş + (fazla mesai saati*fazla mesai saat ücreti) olmak üzere 3 farklı çalışan maaşlı oluşmaktadır. 
 
