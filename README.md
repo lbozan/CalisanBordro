@@ -1,4 +1,4 @@
-# Calisan Bordro CASE
+# Calisan Bordro Pro
 .Net Core App and EF 
 
 Bir şirket farklı tipteki çalışanlarına ait maaş bordrolarını, TC, ad, soyad ve maaş bilgisiyle görüntülenecektir. 
